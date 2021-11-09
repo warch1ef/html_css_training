@@ -1,3 +1,7 @@
 # html_css_training
 
-# I started to learn html-css and trying to improve myself.
+# HTML-CSS Training to improve
+Please feel free to give advices.
+You can  contact me via twitter.
+
+
